@@ -1,5 +1,4 @@
 RunningApp::Application.routes.draw do
-  get "foo_bars/quuz"
   get "static_pages/home"
   get "static_pages/help"
   # The priority is based upon order of creation: first created -> highest priority.
